@@ -1248,7 +1248,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@backstage-community/plugin-growthbook-backend@workspace:plugins/growthbook-backend"
   dependencies:
-    "@backstage-community/plugin-growthbook-common": "npm:^0.0.0"
+    "@backstage-community/plugin-growthbook-common": "npm:^0.1.0"
     "@backstage/backend-defaults": "npm:^0.7.0"
     "@backstage/backend-plugin-api": "npm:^1.6.2"
     "@backstage/backend-test-utils": "npm:^1.10.4"
@@ -1261,7 +1261,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@backstage-community/plugin-growthbook-common@npm:^0.0.0, @backstage-community/plugin-growthbook-common@workspace:plugins/growthbook-common":
+"@backstage-community/plugin-growthbook-common@npm:^0.1.0, @backstage-community/plugin-growthbook-common@workspace:plugins/growthbook-common":
   version: 0.0.0-use.local
   resolution: "@backstage-community/plugin-growthbook-common@workspace:plugins/growthbook-common"
   dependencies:
@@ -1273,7 +1273,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@backstage-community/plugin-growthbook@workspace:plugins/growthbook"
   dependencies:
-    "@backstage-community/plugin-growthbook-common": "npm:^0.0.0"
+    "@backstage-community/plugin-growthbook-common": "npm:^0.1.0"
     "@backstage/catalog-model": "npm:^1.7.6"
     "@backstage/cli": "npm:^0.35.3"
     "@backstage/config": "npm:^1.3.6"
@@ -16450,9 +16450,9 @@ __metadata:
   linkType: hard
 
 "ip-address@npm:^10.0.1":
-  version: 10.1.0
-  resolution: "ip-address@npm:10.1.0"
-  checksum: 10/a6979629d1ad9c1fb424bc25182203fad739b40225aebc55ec6243bbff5035faf7b9ed6efab3a097de6e713acbbfde944baacfa73e11852bb43989c45a68d79e
+  version: 10.2.0
+  resolution: "ip-address@npm:10.2.0"
+  checksum: 10/12fec399e1af5753ac322e47a6d81a50d3a528b3abb17c09525b2a2edcaedcca628c40520706f7037bc4d8e951b0296c47e7b86d0a8e6e2335c8f0ba4afcfac1
   languageName: node
   linkType: hard
 
