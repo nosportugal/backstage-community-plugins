@@ -18036,12 +18036,12 @@ __metadata:
   linkType: hard
 
 "postcss-selector-parser@npm:^6.0.4, postcss-selector-parser@npm:^6.0.5, postcss-selector-parser@npm:^6.0.9":
-  version: 6.1.2
-  resolution: "postcss-selector-parser@npm:6.1.2"
+  version: 6.1.5
+  resolution: "postcss-selector-parser@npm:6.1.5"
   dependencies:
     cssesc: "npm:^3.0.0"
     util-deprecate: "npm:^1.0.2"
-  checksum: 10/190034c94d809c115cd2f32ee6aade84e933450a43ec3899c3e78e7d7b33efd3a2a975bb45d7700b6c5b196c06a7d9acf3f1ba6f1d87032d9675a29d8bca1dd3
+  checksum: 10/bd6c1eddafffa224274a8120e245fa611a92917973f2a6da64a092e60e1192802475a720caa731b71f384be5b39a16baedbd9bf6523136f95249da61884fe8ce
   languageName: node
   linkType: hard
 
@@ -21405,9 +21405,9 @@ __metadata:
   linkType: hard
 
 "undici@npm:^7.2.3":
-  version: 7.24.5
-  resolution: "undici@npm:7.24.5"
-  checksum: 10/1eef66817e5bd1ee6ba908553452e8e23c6b743221f8435e838a87fcec84db901ad9bca5853e7a6e123520abd8d3dd03215b19bf57c2ffb114bfeb0b7c206027
+  version: 7.30.1
+  resolution: "undici@npm:7.30.1"
+  checksum: 10/306a28e4c715652a0e2cd59bcc98cf8b6083b989151054fafaac27bdab6f2bc7e0f33f5847f72f5ba257971226372d04705e0e984b26b42a03271d5a35eb99b1
   languageName: node
   linkType: hard
 
