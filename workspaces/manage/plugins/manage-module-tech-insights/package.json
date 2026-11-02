@@ -64,7 +64,7 @@
     "@mui/material": "^5.15.16",
     "@mui/styles": "^5",
     "react-use": "^17.5.0",
-    "zod": "^4.0.0"
+    "zod": "^4.6.6"
   },
   "peerDependencies": {
     "react": "^16.13.1 || ^17.0.0 || ^18.0.0",
