@@ -48,7 +48,7 @@
     "@backstage/cli": "^0.36.5",
     "@backstage/plugin-scaffolder-backend": "^4.0.5",
     "@backstage/plugin-scaffolder-node-test-utils": "^0.3.14",
-    "zod": "^3.25.76 || ^4.0.0"
+    "zod": "^4.6.6"
   },
   "files": [
     "dist",

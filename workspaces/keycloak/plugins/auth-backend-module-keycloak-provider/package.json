@@ -42,7 +42,7 @@
     "@backstage/plugin-auth-node": "^0.7.4",
     "jose": "^5.0.0",
     "openid-client": "^5.6.5",
-    "zod": "^3.25.76 || ^4.0.0"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@backstage-community/plugin-catalog-backend-module-keycloak": "workspace:^",
