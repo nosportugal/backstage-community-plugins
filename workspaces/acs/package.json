@@ -44,7 +44,7 @@
     "@backstage/cli": "^0.36.5",
     "@backstage/cli-defaults": "^0.1.5",
     "@backstage/e2e-test-utils": "^0.1.2",
-    "@backstage/plugin-catalog-backend": "^3.9.1",
+    "@backstage/plugin-catalog-backend": "^3.9.2",
     "@backstage/plugin-catalog-backend-module-logs": "^0.1.25",
     "@backstage/plugin-catalog-backend-module-scaffolder-entity-model": "^0.2.23",
     "@backstage/plugin-catalog-backend-module-unprocessed": "^0.6.15",
